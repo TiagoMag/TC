@@ -9,7 +9,7 @@
 - TP3: Segurança da cifra por blocos do algoritmo AES no modo CBC e ECB.
 - TP4: Criptografia autenticada & Falsificação CBC-MAC.
 - TP5: Teorema Chinês do resto & RSA.
-- TP6: Servidor - Protocolo station-to-station.
+- TP6: Protocolo station-to-station.
 
 # Elementos:
 Todo o repositório foi realizado pelos elementos:
